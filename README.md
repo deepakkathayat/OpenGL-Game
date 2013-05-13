@@ -1,3 +1,10 @@
+A first-person adventure game developed using OpenGL library in C++ - The Lost World.
+
+
+
+
+
+
 Instructions:
 (0) 
 	-> Press i during the game for instructions
